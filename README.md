@@ -2,7 +2,7 @@
 
 A screen-capture utility for OSX
 
-1. Let's you select what area of the screen to capture
+1. Lets you select what area of the screen to capture
 2. `rsync`'s the image with a unique name to the server of your choice
 3. Copies the remote URL to your clipboard 
 

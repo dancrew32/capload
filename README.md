@@ -9,12 +9,19 @@ A screen-capture utility for OSX
 
 ## Installation
 
-1. Adjust the `REMOTE` section of capload.py to work with your server.
+### Adjust `REMOTE` section of `capload.py` to match your server:
 
-2. Set it up as an OSX Service:
+https://github.com/dancrew32/capload/blob/master/capload.py#L12-L20
+
+### Set capload up as an OSX Service:
 
 ![Service setup](http://i.danmasq.com/cap.1380516153.png)
 
-3. Save your service and set a keyboard shortcut for it e.g. `Command + Shift + 4`:
+### Save your service, set keyboard shortcut
+
+e.g. `Command + Shift + 4`:
 
 ![keyboard shortcut](http://i.danmasq.com/cap.1380516296.png)
+
+Run it!
+`Command + Shift + 4`, select area, paste url
